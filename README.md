@@ -1,4 +1,4 @@
-# Library System
+# JUnit Testing
 
 ## Description
 The StringUtils library is a Java-based utility that provides a set of methods for string manipulation. This project demonstrates how to implement common string operations and is designed for educational purposes to illustrate effective unit testing strategies using JUnit. The utility methods include concatenating two strings, reversing a string, converting a string to uppercase, and trimming whitespace from a string. This project is developed using Eclipse IDE and is intended for use in educational environments where understanding basic string operations is required.
@@ -10,7 +10,7 @@ The StringUtils library is a Java-based utility that provides a set of methods f
 4. Navigate to the src/test/java directory.
 5. Run StringUtilsTest.java to execute the unit tests.
 
-6. ## Credits
+## Credits
 Sharan Robinson
 
 Bhanu Ravada
